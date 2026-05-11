@@ -2,7 +2,7 @@ public class Hi {
     public static void main(String[] args) {
         System.out.println("Hola, Hermano");
         System.out.println("¿Cómo estás hoy?");
-        System.out.println("¿ya terminaste con tus pendiente?");
+        System.out.println("¿llamame?");
         
     }
 }
