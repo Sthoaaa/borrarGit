@@ -49,9 +49,26 @@ public class Sumar {
 - .gitignore: 
   
   cada día 
+-git stash: guarda cambios actuales sin un commit formal
 - git status:estado de los archivos 
 - git add(nombre de archivo)/.: respaldo de archivos
 - git commite-m "Creacion del proyecto": guardar achivo
 - git push: enviar a la nube
+ - git pull: traer los cambios de la nube e integrar
   
-- git pull: traer los cambios de la nube e integrar
+git clone: clona un directorio 
+
+**Imagen**
+
+  ![imagen pj](assets/1prj.png)
+
+**Terminal del git personalizada**
+![terminal](assets/bashcustomed.png)
+
+|Problem                    |Solución                   |
+|---------------------------|---------------------------|
+|'.class' y '.pdf' se suben |Usar '*.class' y '.pdf'    |
+|Git los sigue subiendo     |                           |
+
+Link 
+[Youtube](https://www.youtube.com/watch?v=mLwwyCKZZdk&list=RDmLwwyCKZZdk&start_radio=1)
